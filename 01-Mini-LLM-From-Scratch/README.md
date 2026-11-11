@@ -128,4 +128,4 @@ Build a practical understanding of the internal architecture and training pipeli
 
 **Author:** Parth Sharma
 
-**Project:** Generative AI Practical Lab — Project 01
+**Project:** Generative AI — Project 01
