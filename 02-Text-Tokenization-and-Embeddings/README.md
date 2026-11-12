@@ -1,4 +1,4 @@
-# Project 02: Text Tokenization & Embeddings Lab
+# Project 02: Text Tokenization & Embeddings
 
 A hands-on exploration of how machines convert human language into numerical representations and use those representations to understand meaning, compare information, and retrieve relevant content.
 
