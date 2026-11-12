@@ -1,0 +1,11 @@
+
+Artificial intelligence is transforming modern technology.
+Machine learning enables computers to learn from data.
+Deep learning uses neural networks to solve complex problems.
+Python is widely used for artificial intelligence development.
+Generative AI can create text, images and code.
+Vector databases store numerical embeddings for similarity search.
+RAG combines information retrieval with large language models.
+Natural language processing helps computers understand human language.
+Computer vision enables machines to understand images and videos.
+Data science involves extracting insights from structured and unstructured data.
