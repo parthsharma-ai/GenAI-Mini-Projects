@@ -8,23 +8,23 @@ This repository documents my practical learning journey in Generative AI. Each p
 
 ## Project Roadmap
 
-| No. | Project | Status |
-|---|---|---|
-| 01 | Mini LLM from Scratch | Completed |
-| 02 | Text Tokenization and Embeddings | Planned |
-| 03 | Semantic Search Engine | Planned |
-| 04 | Vector Database Implementation | Planned |
-| 05 | Document Question Answering System | Planned |
-| 06 | RAG-Based Chatbot | Planned |
-| 07 | Advanced RAG | Planned |
-| 08 | LLM Fine-Tuning | Planned |
-| 09 | LLM Evaluation | Planned |
-| 10 | Local LLM Application | Planned |
-| 11 | AI Agent from Scratch | Planned |
-| 12 | Multi-Agent System | Planned |
-| 13 | Tool-Calling AI Agent | Planned |
-| 14 | MCP Server and Client | Planned |
-| 15 | End-to-End Agentic RAG System | Planned |
+| No. | Project |
+|---|---|
+| 01 | Mini LLM from Scratch |
+| 02 | Text Tokenization and Embeddings |
+| 03 | Semantic Search Engine |
+| 04 | Vector Database Implementation |
+| 05 | Document Question Answering System |
+| 06 | RAG-Based Chatbot |
+| 07 | Advanced RAG |
+| 08 | LLM Fine-Tuning |
+| 09 | LLM Evaluation |
+| 10 | Local LLM Application |
+| 11 | AI Agent from Scratch |
+| 12 | Multi-Agent System |
+| 13 | Tool-Calling AI Agent |
+| 14 | MCP Server and Client | 
+| 15 | End-to-End Agentic RAG System |
 
 ## Tech Stack
 
